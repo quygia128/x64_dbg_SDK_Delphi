@@ -6,5 +6,8 @@ A long time ago, i didn't develop any of my Project because i was busy with my j
 Today, i want to puplic the project "x64_dbg_SDK in Delphi" which was developed in 2 years ago. 
 I hope someone will be continue my work for the most debuger in the world.
 
+*** Check newest version by Wuhao13
+https://gitee.com/suxuss/DELPHI-x96dbg-Plugins-SDK
+
 BR,
 quygia128
